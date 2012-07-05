@@ -1,0 +1,22 @@
+// Compass library
+@import "compass";
+
+// Global variables
+@import "partials/base.scss";
+
+// Normalize elements
+@import "partials/normalize.scss";
+
+/* ==|== Primary Styles =====================================================
+Author: 
+========================================================================== */
+
+// Main styles go here
+
+/* ======================================================================= */
+
+// WP-Specific CSS Styles
+@import "partials/wp.scss";
+
+// Non-semantic helper classes
+@import "partials/helpers.scss";
