@@ -1,0 +1,12 @@
+{
+    "author": "Javier Villanueva",
+    "name": "wp-startup-them",
+    "description": "Test theme",
+    "version": "1.0.0",
+    "homepage": "http://www.jvsoftware.com",
+    "dependencies": {
+        "grunt": "~0.3.11",
+        "grunt-css": "~0.2.1",
+        "grunt-compass": "~0.2.12"
+    }
+}
