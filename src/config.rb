@@ -1,6 +1,6 @@
 # Theme directories:
 http_path = ""
-css_dir = "../sass"
+css_dir = ".."
 sass_dir = "../sass"
 images_dir = "../img"
 javascripts_dir = "../js"
