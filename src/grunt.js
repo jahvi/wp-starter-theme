@@ -64,7 +64,9 @@ module.exports = function(grunt) {
     },
     uglify: {},
     compass: {
-      dist: {}
+      dist: {
+        forcecompile: true
+      }
     }
   });
 
